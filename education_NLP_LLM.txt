@@ -5,3 +5,5 @@ Towards Process-Oriented, Modular, and Versatile Question Generation that Meets 
 Distractor generation for multiple-choice questions with predictive prompting and large language models - https://arxiv.org/abs/2307.16338
 
 Learning to Reuse Distractors to support Multiple Choice Question Generation in Education - https://arxiv.org/abs/2210.13964
+
+https://github.com/yuanxiaosc/Entity-Relation-Extraction - github repo for entity relation extraction with comparisons to bert
